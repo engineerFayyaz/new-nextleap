@@ -36,7 +36,7 @@ body {
 }
 
 .img-background {
-  background-image: url("/public/assets/images/Background_complete.png");
+  background-image: url("/publicassets/images/Background_complete.png");
   height: 400px;
   width: 600px;
   background-position: center;
@@ -201,7 +201,7 @@ body {
 
 @media (max-width: 768px) and (min-width: 236px) {
   .img-background {
-    background-image: url(/public/assets/images/Background_complete.png);
+    background-image: url(/publicassets/images/Background_complete.png);
     height: 207px !important;
     width: 307px !important;
     background-position: center;
