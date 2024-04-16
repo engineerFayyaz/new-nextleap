@@ -1,0 +1,175 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.careers {
+  width: 40%;
+  position: relative;
+  left: 11rem;
+  top: 2.5rem;
+}
+
+.tools {
+  width: 40%;
+  font-size: 12px;
+  position: relative;
+  left: 48px;
+  line-height: 0px;
+  letter-spacing: 1px;
+  color: #006b72;
+}
+
+.lorem {
+  font-size: 10.5px;
+}
+
+.account {
+  position: relative;
+  left: -17px;
+  top: 23px;
+}
+
+.img-email {
+  height: 20px;
+  width: 20px;
+}
+
+.email {
+  text-decoration: none;
+  border: none;
+}
+
+.mail {
+  border: 1px solid #1e1e1e;
+  border-radius: 25px;
+  height: 50px;
+  position: relative;
+  left: 28px;
+  top: 26px;
+}
+
+.read {
+  position: relative;
+  left: 41px;
+  top: 38px;
+}
+
+.agree {
+  font-size: 13px;
+}
+
+.radio {
+  position: relative;
+  bottom: 6px;
+}
+
+.term {
+  color: #4ecdc4;
+}
+
+.signin {
+  height: 50px;
+  border-radius: 25px;
+  background: linear-gradient(180deg, #79d3cc -34.56%, #006b72 186.03%);
+  position: relative;
+  left: 28px;
+  top: 51px;
+}
+
+.sign {
+  background: none;
+  border: none;
+  font-weight: 550;
+}
+
+.in {
+  text-decoration: none;
+  color: #4ecdc4;
+}
+
+.already {
+  position: relative;
+  top: 68px;
+  left: 150px;
+  color: #8f8e8e;
+}
+
+.toolkit {
+  /* background: linear-gradient(180deg, #4ECDC4 0%, rgba(0, 107, 114, 0.8) 100%); */
+  padding-bottom: 418px;
+  /* background-image: url('assets/images/image.png'); */
+  background-image: url("assets/images/Add Image_1.png");
+  width: 400px;
+  height: 200px;
+}
+.side_image {
+  background-image: url("/images/Add Image.png");
+  width: 100%;
+  height: 300px;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.ai {
+  font-weight: bold;
+  position: relative;
+  /* top: 185px; */
+  bottom: 10rem;
+  width: 100%;
+  left: 8rem;
+}
+
+.sign-up {
+  background: none;
+  border: none;
+  color: #4ecdc4;
+  font-weight: 550;
+  background-color: white;
+  padding: 8px;
+  border-radius: 15px;
+  width: 200px;
+  position: relative;
+  /* bottom: 2rem; */
+  top: 2rem;
+  left: 7rem;
+}
+
+.signup {
+  background-color: #ffffff;
+  height: 40px;
+  border-radius: 20px;
+  /* position: relative;
+    top: 230px; */
+}
+
+/* .dot {
+  background-color: #ffffff;
+  height: 30px;
+  width: 30px;
+  border-radius: 20px;
+  position: relative;
+  /* top: 350px; */
+/* left: 200px; */
+/* } */
+
+.have {
+  height: 30px;
+  width: 30px;
+  background-color: #4ecdc4;
+  border-radius: 20px;
+  float: right;
+  position: relative;
+  left: 15px;
+  bottom: 214px;
+}
+
+.ball {
+  height: 50px;
+  width: 50px;
+  background-color: #4ecdc4;
+  border-radius: 25px;
+  /* position: relative; */
+  /* right: 25px;
+    top: 115px; */
+}

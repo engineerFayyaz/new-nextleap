@@ -1,0 +1,320 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background: none;
+}
+
+/* Header  */
+.navbar-brand img {
+  width: 80%;
+}
+.navbar-nav .nav-item {
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+.navbar-nav .nav-item .nav-link {
+  font-weight: bold;
+  font-size: 18px;
+  color: black;
+}
+
+.navbar-collapse form button {
+  background: #308889;
+  color: white;
+
+  border: none;
+  padding: 11px;
+  width: 120px;
+  font-size: 18px;
+  font-weight: bold;
+}
+.navbar-collapse form .btn {
+  background-color: white;
+  color: black;
+
+  border: none;
+  padding: 8px;
+  width: 120px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.navbar-collapse form button:hover {
+  background-color: black;
+  color: white;
+  border: none;
+}
+/* Header end */
+
+/* Main section */
+.Superpower h1 span {
+  color: #308889;
+}
+.Superpower h1 {
+  font-weight: bold;
+}
+.Superpower p {
+  width: 55%;
+  margin: 0 auto;
+}
+.Superpower button {
+  background-color: #308889;
+  color: white;
+  margin-top: 50px !important;
+  border-radius: 20px;
+  border: none;
+  padding: 8px;
+  width: 120px;
+}
+.Superpower button:hover {
+  background-color: black;
+  color: white;
+  border: none;
+  border-radius: 20px;
+}
+.card .card-body {
+  background-color: #308889;
+  padding: 15px;
+  border-radius: 7px;
+  border: none;
+}
+.card .card-body_1 {
+  background-color: #ff725e;
+  padding: 15px;
+  border-radius: 7px;
+  border: none;
+}
+/* .card-body_1 .img_icon{
+
+    color: #308889;
+} */
+.Transcription button {
+  width: 300px;
+  background-color: #308889;
+  color: white;
+  border-radius: 20px;
+  padding: 10px;
+  border: none;
+}
+.Understand h1 {
+  width: 90%;
+  margin-top: 20px;
+}
+.Understand h1 span {
+  color: #ff725e;
+}
+.Understand p {
+  font-size: 18px;
+  width: 70%;
+}
+.curved_shap .set_image_position {
+  position: relative;
+  /* width: 90%; */
+  bottom: 0.6rem;
+  right: 17rem;
+}
+.curved_shap span button {
+  background-color: #308889;
+  margin-top: 30px;
+}
+.curved_shap .dot_position {
+  position: relative;
+  bottom: 10rem;
+  left: 21rem;
+  width: 80px;
+}
+.Mike {
+  background-color: #c5d5d6;
+  color: black;
+  height: fit-content;
+  padding: 20px;
+  width: 300px;
+  border-radius: 20px;
+}
+.Develop_curated h1 {
+  font-weight: bold;
+  font-family: sans-serif;
+  width: 100%;
+  margin: 0 auto;
+}
+.Develop_curated h1 span {
+  color: #308889;
+}
+.Develop_curated h5 {
+  font-size: 20px;
+  color: black;
+  font-weight: 500;
+}
+.Subscribe {
+  width: 100%;
+  background-color: #308889;
+  border-radius: 20px;
+}
+
+.Subscribe h1 {
+  color: white;
+  width: 50%;
+  margin: 30px auto;
+  font-size: 30px;
+  text-align: center;
+}
+.Subscribe p {
+  text-align: center;
+  color: white;
+}
+.Subscribe .Subscribe_input input {
+  padding: 15px;
+  border: none;
+  width: 350px;
+  border-top-left-radius: 18px;
+  border-bottom-left-radius: 18px;
+}
+.Subscribe .Subscribe_input button {
+  width: 120px;
+  border: none;
+  border-top-right-radius: 18px;
+  border-bottom-right-radius: 18px;
+  background-color: #ff725e;
+  color: white;
+  font-size: 18px;
+  font-weight: 500;
+}
+/* footer-section start */
+.footer {
+  width: 100%;
+  height: 400px;
+  background-color: #308889;
+}
+
+.footer-detail {
+  width: 90%;
+  position: relative;
+  left: 80px;
+}
+
+.img-next {
+  height: 70px;
+  width: 100%;
+}
+
+.project {
+  width: 85%;
+  font-size: 15px;
+}
+
+.number {
+  line-height: 11px;
+}
+
+.tooling {
+  font-size: 9px;
+  letter-spacing: 1px;
+  justify-content: center;
+  position: relative;
+  left: 9px;
+  bottom: 12px;
+}
+
+.img-icon {
+  height: 15px;
+  width: 15px;
+}
+
+.anchor {
+  text-decoration: none;
+  line-height: 5px;
+  width: 104%;
+}
+
+.leap-main {
+  position: relative;
+  top: 114px;
+}
+
+.resource-main {
+  position: relative;
+  top: 118px;
+}
+
+.resource {
+  height: 170px;
+  font-size: 15px;
+}
+
+.get-touch {
+  height: 250px;
+  position: relative;
+  top: 120px;
+}
+
+.img-phone {
+  height: 25px;
+  width: 25px;
+}
+
+.borderr {
+  height: 31px;
+  width: 3px;
+  border: none;
+  background-color: #ff725e;
+}
+
+.address {
+  font-size: 15px;
+}
+
+.contact {
+  width: 77% !important;
+  font-size: 15px;
+  position: relative;
+  right: 19px !important;
+}
+
+.email {
+  font-size: 15px;
+  width: 77%;
+}
+
+.borderr2 {
+  height: 31px;
+  width: 3px;
+  border: none;
+  background-color: #ff725e;
+}
+
+.touch {
+  width: 102%;
+}
+
+.search-icon {
+  background-color: #ff725e;
+  height: 40px;
+  width: 20%;
+  border: none;
+}
+
+.img-search {
+  height: 25px;
+  width: 25px;
+}
+
+.search {
+}
+
+.newsletter {
+  position: relative;
+  top: 122px;
+}
+
+.latest {
+  font-size: 11px;
+}
+
+.gigs {
+  background-color: #4ecdc4;
+  height: 50px;
+  width: 50%;
+  border-radius: 20px;
+}
+/* footer section end */

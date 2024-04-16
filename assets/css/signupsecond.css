@@ -1,0 +1,149 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.first-section{
+    background: linear-gradient(180deg, #4ECDC4 0%, #006B72 100%);
+    padding-bottom: 21px !important;
+}
+
+.img-career{
+    height: 600px;
+    width: 100%;
+    position: relative;
+    right: 25px;
+
+}
+
+
+.tools {
+    width: 40%;
+    font-size: 12px;
+    position: relative;
+    left: 34px;
+    line-height: 0px;
+    letter-spacing: 1px;
+    color: #006B72;
+}
+
+.careers {
+    width: 40%;
+    position: relative;
+    left: 16rem;
+    top: 2.5rem;
+}
+
+.welcome{
+    position: relative;
+    top: 15px;
+    left: 18px;
+    font-weight: bold;
+    color: #444444;
+}
+
+.google{
+    height: 40px;
+    width: 17%;
+    background-color: #EA4335;
+    border-radius: 20px;
+}
+
+.facebook{
+    height: 40px;
+    width: 19%;
+    background-color: #2881E7;
+    border-radius: 20px;
+}
+
+.github{
+    height: 40px;
+    width: 19%;
+    background-color: #1E1E1E;
+    border-radius: 20px;
+}
+
+.img-google{
+    height: 20px;
+    width: 20px;
+}
+
+.img-facebook{
+    height: 20px;
+    width: 10px;
+}
+
+.img-github{
+    height: 25px;
+    width: 25px;
+}
+
+.btn-google{
+    background: none;
+    border: none;
+}
+
+.form-control {
+    width: 100%;
+    height: calc(1.5em + 0.75rem + 2px);
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  }
+  
+  .form-label {
+    font-weight: 500;
+    margin-bottom: 0.25rem;
+  }
+  
+  .form-group {
+    margin-bottom: 1rem;
+  }
+
+  .input-text{
+    border: none;
+    border-bottom: 2px solid #006B72;
+    background-color: #FFFFFF;
+    color: #000000;
+}
+
+.email{
+    font-weight: 550;
+    position: relative;
+    right: 186px;
+}
+
+.password{
+    position: relative;
+    right: 170px;
+    font-weight: 550;
+}
+
+.form-fields{
+    justify-items: center;
+}
+
+.forget-password{
+    text-decoration: none;
+    color: #006B72;
+}
+
+
+.signin{
+    height: 40px;
+ 
+    background-color: #006B72;
+    border-radius: 10px;
+}
+
+.btn-login{
+    font-weight: bold;
+}

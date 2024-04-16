@@ -1,0 +1,4116 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    height: -webkit-fill-available;
+}
+
+
+body {
+    height: -webkit-fill-available;
+}
+
+.img-leap {
+    width: 50px;
+}
+
+.toolkit1 {
+    position: relative;
+    top: 7rem;
+}
+
+.toolkit {
+    font-size: 10px;
+    color: #308889;
+    text-decoration: none;
+    letter-spacing: 2px;
+    line-height: 0px;
+}
+
+.left-border {
+    height: 56px;
+    width: 30px;
+    color: black;
+    border-right: 1.8px solid black;
+    position: relative;
+    right: 49px;
+}
+
+.navbar-collapse ul li a:hover {
+    background-color: #4ECDC4;
+    text-align: center;
+    width: 75px;
+    height: 50px;
+}
+
+.comment-section {
+    position: relative;
+    right: 83px;
+}
+
+.carousel-toolkit {
+    position: relative;
+    top: 32px;
+}
+
+.career {
+    width: 42%;
+    color: #308889;
+    font-weight: 500;
+    position: relative;
+    left: 28px;
+}
+
+.bring {
+    background-color: #308889;
+    color: white;
+    height: 40px;
+    width: 74%;
+}
+
+
+.bring p {
+    position: relative;
+    top: 5px;
+}
+
+.comment {
+    background-color: #308889;
+    height: 40px;
+    width: 40px;
+    border-radius: 20px;
+}
+
+.menu {
+    background-color: #308889;
+    height: 40px;
+    width: 40px;
+    border-radius: 20px;
+}
+
+.img-comment {
+    height: 20px;
+    width: 20px;
+}
+
+.img-vector {
+    height: 20px;
+    width: 20px;
+}
+
+.border-lines {
+
+    position: absolute;
+    left: 1050px !important;
+    top: 1px !important;
+}
+
+.first-line {
+    border: 1px solid #FF725E;
+    height: 110px !important;
+
+}
+
+.second-line {
+
+    border-bottom: 1.5px solid #FF725E;
+    width: 200px !important;
+    position: relative;
+    right: 30px !important;
+    bottom: 41px !important;
+
+}
+
+
+.border-lines2 {
+
+    position: absolute;
+    left: 581px !important;
+    top: 738px !important;
+}
+
+.first-line1 {
+    border: 1px solid #FF725E;
+    height: 110px !important;
+
+}
+
+.second-line2 {
+
+    border-bottom: 1.5px solid #FF725E;
+    width: 690px !important;
+    position: relative;
+    right: 30px !important;
+    bottom: 31px !important;
+
+}
+
+
+.border-lines3 {
+    position: relative;
+    left: 181px !important;
+}
+
+.first-line2 {
+    border: 1px solid #aea5a5;
+    height: 150px !important;
+    position: relative;
+    top: 1rem !important;
+
+}
+
+.second-line3 {
+
+    border-bottom: 1.5px solid #aea5a5;
+    width: 633px !important;
+    position: relative;
+    right: 98px;
+    bottom: 26px !important;
+
+}
+
+.get-start {
+    height: 45px;
+    width: 21%;
+    background-color: #4ECDC4;
+    color: white;
+}
+
+/* .toolkit1 {
+    width: 50%;
+} */
+
+
+.slide {
+    border: 53px solid #006B72;
+    border-radius: 100%;
+}
+
+.one {
+    background-color: #4ECDC4;
+    height: 24px;
+    width: 86px;
+}
+
+.img-horizontal {
+    height: 5px;
+}
+
+.bullets {
+    width: 40%;
+    position: relative;
+    top: 7.5rem;
+    left: 6rem;
+}
+
+.bullet1 {
+    border: 4px solid #4ECDC4;
+    border-radius: 10px;
+
+}
+
+.bullet2 {
+    border: 4px solid black;
+    border-radius: 20px;
+}
+
+.bullet3 {
+    border: 4px solid black;
+    border-radius: 20px;
+}
+
+.bullet4 {
+    border: 4px solid black;
+    border-radius: 20px;
+}
+
+.about-section {
+    position: absolute;
+}
+
+
+.capsule {
+    height: 100px !important;
+    width: 27% !important;
+    position: relative;
+    right: -24.6rem !important;
+
+}
+
+.cap1 {
+    background-color: #4ECDC4;
+    height: 40px !important;
+    width: 70% !important;
+    border-radius: 20px;
+    position: relative;
+    left: 135px !important;
+    top: 56px !important;
+}
+
+.cap2 {
+    background-color: #308889;
+    height: 40px !important;
+    width: 100% !important;
+    border-radius: 20px;
+    position: relative;
+    left: 100px !important;
+    top: 47px !important;
+}
+
+.innovative-ai {
+    width: 100% !important;
+
+}
+
+.ai {
+    color: #308889;
+
+}
+
+.innovative {
+    position: relative;
+    left: 3rem !important;
+}
+
+
+
+.design {
+    font-size: 12px !important;
+    color: #878787;
+}
+
+.dream-job {
+    background-color: #f0e8e8;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    position: relative;
+    right: 150px !important;
+}
+
+.ai-tool {
+    background-color: #f0e8e8;
+    /* height: 57px !important; */
+    /* width: 59% !important; */
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    text-align: center;
+    margin: 0 auto;
+    position: relative;
+    left: 142.2px;
+
+}
+
+.more {
+    position: relative;
+    left: 5rem;
+    bottom: 2rem;
+    font-size: 24px;
+}
+
+.perfect-tool {
+    background-color: #f0e8e8;
+    height: 888px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    position: relative;
+    left: 211px;
+}
+
+.cards-list .card {
+    height: 318px !important;
+    width: 31% !important;
+}
+
+
+.next {
+    height: 30px;
+    width: 30px;
+    background-color: #308889;
+    border-radius: 20px;
+}
+
+.goal {
+    font-size: 12px;
+    color: #308889;
+    position: relative;
+    top: 5px;
+}
+
+.dream {
+    color: #308889;
+}
+
+.suite {
+    font-size: small;
+}
+
+.started {
+    height: 42px;
+    width: 38%;
+    background-color: #308889;
+    border-radius: 20px;
+
+}
+
+
+.career-toolkitt {
+    position: relative;
+    left: 33px;
+}
+
+.img-layer {
+    height: 37px;
+    width: 38px;
+    background-color: #4ECDC4;
+    border-radius: 20px;
+    position: relative;
+    bottom: 2px;
+    left: 4px;
+}
+
+.building {
+    font-size: 12px;
+}
+
+.season {
+    color: #308889;
+}
+
+/* .tooll {
+    width: 44%;
+    position: relative;
+    left: 247px;
+
+} */
+
+.recruiting {
+    width: 100%;
+}
+
+.complete {
+    font-size: small;
+}
+
+
+
+.try-free {
+    text-align: center;
+    height: 37px;
+    width: 150px;
+    background-color: #308889;
+    border-radius: 20px;
+    position: relative;
+    bottom: 37px;
+    left: 61px;
+    font-weight: bold;
+}
+
+.code {
+    line-height: 8px;
+}
+
+.card-title {
+    height: 33px;
+    width: 71%;
+    position: relative;
+    left: 35px;
+    border-radius: 20px;
+    text-align: center;
+    background-color: #e9d9d9;
+}
+
+
+.title {
+    font-weight: 500;
+}
+
+.leap {
+    color: #308889;
+}
+
+.success {
+    height: 34px;
+    width: 137px;
+    border: none;
+    border-radius: 30px;
+    background-color: #918EA4;
+}
+
+.interview {
+    color: #308889;
+}
+
+.final {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.applovin {
+    width: 40%;
+}
+
+.ai-lovin {
+    width: 35%;
+    position: relative;
+    left: 9rem;
+    top: 1rem;
+}
+
+.netflix {
+    width: 40%;
+}
+
+
+.app {
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    background-color: #FF725E;
+    position: relative;
+    left: 327.2px;
+}
+
+
+.app2 {
+    height: 45px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    background-color: #308889;
+
+}
+
+.app-ai {
+    height: 45px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    background-color: #918EA4;
+
+}
+
+.netflix-app {
+    height: 45px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    background-color: #4ECDC4;
+    position: relative;
+    left: 19rem;
+}
+
+.lovin {
+    height: 62px;
+    width: 167px;
+    background-color: white;
+    position: relative;
+    top: 20px;
+    left: 10px;
+    border-radius: 20px;
+}
+
+.netfli {
+    height: 50px;
+    width: 163px;
+    background-color: white;
+    position: relative;
+    top: 11px;
+    left: 13px;
+    border-radius: 23px;
+}
+
+.googly {
+    height: 53px;
+
+    background-color: white;
+    position: relative;
+    top: 11px;
+    left: 13px;
+    border-radius: 20px;
+}
+
+
+
+.img-lovin {
+    position: relative;
+    left: 57px;
+    bottom: 5px;
+}
+
+.img-netfli {
+    position: relative;
+    left: 28px;
+    bottom: 12px;
+}
+
+.img-google {
+    position: relative;
+    bottom: 20px;
+}
+
+.loving {
+    background-color: #FF725E;
+    height: 176px;
+    border-top-left-radius: 34px;
+    border-bottom-right-radius: 34px;
+}
+
+.netflixing {
+    background-color: #4ECDC4;
+    height: 178px;
+    width: 120%;
+    border-top-left-radius: 34px;
+    border-top-right-radius: 34px;
+    border-bottom-right-radius: 34px;
+}
+
+.googling {
+    background-color: #308889;
+    height: 178px;
+    border-top-right-radius: 34px;
+    border-bottom-left-radius: 34px;
+
+}
+
+
+.ai-cover {
+    background-color: #918EA4;
+    height: 178px;
+    border-top-right-radius: 34px;
+    border-bottom-left-radius: 34px;
+
+}
+
+.cover {
+    position: relative;
+    top: 32px;
+}
+
+.letter {
+    position: relative;
+    top: 32px;
+    width: 99%;
+}
+
+.jessica-bunga {
+    height: 45px;
+    background-color: #FF725E;
+    border-bottom-left-radius: 34px;
+    border-bottom-right-radius: 34px;
+}
+
+.bunga {
+    position: relative;
+    bottom: 30px;
+}
+
+.sunarto {
+    height: 45px;
+    width: 66%;
+    background-color: #4ECDC4;
+    border-bottom-left-radius: 34px;
+    border-bottom-right-radius: 34px;
+}
+
+.sunart-2 {
+    position: relative;
+    bottom: 27px;
+    left: 75px;
+}
+
+
+
+
+.messi {
+    height: 45px;
+    background-color: #308889;
+    border-bottom-left-radius: 34px;
+    border-bottom-right-radius: 34px;
+    position: relative;
+    left: 187.2px;
+}
+
+.tami {
+    height: 45px;
+    background-color: #918EA4;
+    border-bottom-left-radius: 34px;
+    border-bottom-right-radius: 34px;
+    position: relative;
+    left: 122.6px;
+}
+
+.img-woman {
+    border-radius: 32px;
+    height: 50px;
+    width: 50px;
+    position: relative;
+    bottom: 30px;
+}
+
+.img-mbida {
+    border-radius: 32px;
+    height: 50px;
+    position: relative;
+    left: 199px;
+    bottom: 2rem;
+}
+
+.img-sunarto {
+    border-radius: 32px;
+    height: 40px;
+    width: 40px;
+    position: relative;
+    bottom: 32px;
+}
+
+.img-sunarto-2 {
+    position: relative;
+    bottom: 24px;
+    left: 4.8pc;
+    border-radius: 23px;
+}
+
+.mbida {
+    position: relative;
+    left: 196px;
+    bottom: 2rem;
+}
+
+
+
+.torress {
+    position: relative;
+    bottom: 31px;
+}
+
+.manager {
+    position: relative;
+    bottom: 40px;
+}
+
+.impress {
+    position: relative;
+    top: 2rem;
+    left: 1rem;
+}
+
+.dollar {
+    font-weight: bold;
+    position: relative;
+    bottom: 14px;
+    left: 5px;
+}
+
+.pricings {
+    position: relative;
+    bottom: 30px;
+}
+
+.price {
+    font-size: xxx-large;
+    font-weight: 500;
+}
+
+.month {
+    color: #908AA0;
+}
+
+.info-section {
+    background-color: #FFFFFF;
+    height: 156px;
+    border-radius: 10px;
+
+}
+
+.basic-pro-enter .card {
+    background-color: #F2F3F5;
+    height: 485px !important;
+
+    border-radius: 23px;
+}
+
+
+.basic-pro-enter .card2 {
+    background-color: #F2F3F5;
+    height: 485px !important;
+    width: 26% !important;
+    border: 2px solid #308889;
+    border-radius: 23px;
+}
+
+.choose-this {
+    height: 40px;
+    width: 100%;
+    border-radius: 7px;
+    border: 1px solid #4ECDC4;
+    /* position: relative; */
+    top: 2rem;
+
+}
+
+
+.choose-this-2 {
+    height: 40px;
+    width: 100%;
+    border-radius: 7px;
+    background-color: #4ECDC4;
+    color: white;
+    /* position: relative; */
+    top: 2rem;
+
+}
+
+.btn-choose {
+    border: none;
+    font-weight: 500;
+}
+
+.btn-choose-2 {
+    background: none;
+    border: none;
+    font-weight: 500;
+}
+
+.img-vector {
+
+    height: 20px;
+    width: 20px;
+}
+
+.includes {
+    position: relative;
+    right: -8px;
+    top: 10px;
+    width: 20%;
+    justify-content: center;
+}
+
+.ideal {
+    font-size: 13px;
+    color: #878787;
+}
+
+
+.frequent-ask {
+    width: 50% !important;
+    position: relative;
+    left: 320px;
+}
+
+.frequent {
+    height: 24px;
+    background-color: #308889;
+    color: white;
+    border-radius: 20px;
+    position: relative;
+    left: 155px !important;
+}
+
+.some {
+    font-weight: bold;
+    position: relative;
+    left: 208px !important;
+
+}
+
+.faq {
+    color: #4ECDC4;
+    width: 30%;
+}
+
+.best-company {
+    height: 59px;
+    background-color: #4ECDC4;
+    border-radius: 30px;
+}
+
+.company {
+    border: none;
+    background: none;
+    font-weight: bold;
+}
+
+.img-line {
+    height: 50px;
+    width: 40px;
+    position: relative;
+    left: 4px;
+    top: -6px;
+}
+
+.relevant {
+    font-weight: 500;
+    position: relative;
+    left: 25px;
+}
+
+.awesome {
+    height: 59px;
+    border: 1px solid #878787;
+    border-radius: 30px;
+}
+
+.btn-awesome {
+    border: none;
+    background: none;
+    color: #308889;
+    font-weight: 480;
+
+}
+
+.img-plus {
+    height: 18px;
+    width: 18px;
+    position: relative;
+    top: 5px;
+}
+
+.tutorial-section {
+    position: relative;
+    left: 324px !important;
+}
+
+.footer {
+    width: 100%;
+    height: 400px;
+    background-color: #308889;
+}
+
+.footer-detail {
+    width: 90%;
+    position: relative;
+    left: 80px;
+}
+
+.img-next {
+    height: 40px;
+    width: 40%;
+}
+
+.project {
+    width: 85%;
+    font-size: 15px;
+}
+
+.number {
+    line-height: 11px;
+}
+
+.tooling {
+
+    font-size: 9px;
+    letter-spacing: 1px;
+    justify-content: center;
+    position: relative;
+    left: 9px;
+    bottom: 12px;
+}
+
+
+
+.img-icon {
+    height: 15px;
+    width: 15px;
+}
+
+.anchor {
+    text-decoration: none;
+    line-height: 5px;
+    width: 104%;
+    ;
+}
+
+.leap-main {
+    position: relative;
+    top: 114px;
+}
+
+.resource-main {
+    position: relative;
+    top: 118px;
+}
+
+
+.resource {
+    height: 170px;
+    font-size: 15px;
+}
+
+
+.get-touch {
+    height: 250px;
+    position: relative;
+    top: 120px;
+}
+
+.img-phone {
+    height: 25px;
+    width: 25px;
+}
+
+.borderr {
+
+    height: 31px;
+    width: 3px;
+    border: none;
+    background-color: #FF725E;
+
+}
+
+.address {
+    font-size: 15px;
+}
+
+.contact {
+    width: 77% !important;
+    font-size: 15px;
+    position: relative;
+    right: 19px !important;
+
+}
+
+.email {
+
+    font-size: 15px;
+    width: 77%;
+}
+
+.borderr2 {
+    height: 31px;
+    width: 3px;
+    border: none;
+    background-color: #FF725E;
+
+}
+
+.touch {
+    width: 102%;
+}
+
+.search-icon {
+    background-color: #FF725E;
+    height: 40px;
+    width: 20%;
+    border: none;
+}
+
+.img-search {
+    height: 25px;
+    width: 25px;
+}
+
+.search {}
+
+.newsletter {
+    position: relative;
+    top: 122px;
+}
+
+.subscribe {}
+
+.latest {
+    font-size: 11px;
+}
+
+
+.gigs {
+    background-color: #4ECDC4;
+    height: 50px;
+    width: 50%;
+    border-radius: 20px;
+}
+
+
+
+
+
+
+@media (max-width:768px) and (min-width:236px) {
+
+    body {
+        overflow-x: hidden;
+    }
+
+    .navbar {
+        width: 100% !important;
+    }
+
+    .left-border {
+        position: relative;
+        right: 295px !important;
+    }
+
+    .career-toolkit {
+        width: 100% !important;
+        left: 6rem !important;
+    }
+
+    .career {
+        width: 57% !important;
+    }
+
+    .carousel-toolkit {
+        width: 31% !important;
+        position: relative;
+        left: 120px;
+        top: 83px !important;
+    }
+
+    .slide {
+        border: 22px solid #006B72 !important;
+        border-radius: 121px !important;
+    }
+
+    .toolkit1 .col-md-9 {
+        font-size: 16px;
+        width: 125% !important;
+    }
+
+    .bring {
+        font-weight: 500 !important;
+        width: 100% !important;
+    }
+
+    .get-start {
+        width: 32% !important;
+        position: relative;
+        top: 50px !important;
+    }
+
+    .border-lines2 {
+        position: absolute;
+        left: 430px !important;
+        top: 331px !important;
+    }
+
+    .first-line1 {
+
+        position: relative;
+        left: 67px !important;
+    }
+
+    .second-line2 {
+        border-bottom: 1.5px solid #FF725E;
+        width: 200px !important;
+        position: relative;
+        right: -34px !important;
+        bottom: 31px !important;
+    }
+
+    .number-list .number {
+        position: relative;
+        top: 62px !important;
+    }
+
+
+    .innovative-ai {
+        width: 100% !important;
+        position: relative;
+        top: 68px;
+        right: 60px;
+    }
+
+    .innovative {
+        width: 33% !important;
+    }
+
+    .innovative p {
+        font-size: 8px !important;
+    }
+
+    .border-lines3 {
+        bottom: 22px;
+        width: 40% !important;
+        left: 12.5rem !important;
+
+    }
+
+    .capsule {
+        position: absolute;
+        right: 3.4rem !important;
+    }
+
+    .cap1 {
+        width: 77% !important;
+        position: relative;
+        left: 89px !important;
+    }
+
+    .cap2 {
+        width: 106% !important;
+    }
+
+    .dream-job {
+        position: relative;
+        left: -185px !important;
+        top: 35px !important;
+    }
+
+    .perfect-tool {
+        position: relative;
+        left: -9px !important;
+        top: 34px !important;
+        width: 90% !important;
+    }
+
+    .tool-main {
+        width: 80% !important;
+
+    }
+
+    .tool .col-md-12 {
+        font-size: 22px !important;
+        width: 70% !important;
+    }
+
+
+    .tool {
+        width: 60% !important;
+    }
+
+
+
+    .career-toolkitt {
+        width: 30% !important;
+        position: relative;
+        left: 135px !important;
+    }
+
+    .building {
+        font-size: 9px !important;
+        width: 100% !important;
+        position: relative;
+        right: 91px !important;
+    }
+
+    .started {
+        height: 42px !important;
+        width: 97% !important;
+        background-color: #308889;
+        border-radius: 20px;
+        position: relative;
+        right: 93px !important;
+    }
+
+    .tooll {
+
+        font-size: 25px !important;
+
+    }
+
+    .para {
+        font-size: 15px !important;
+    }
+
+    .img-layer {
+        height: 37px;
+        width: 38px;
+        background-color: #4ECDC4;
+        border-radius: 20px;
+        position: relative;
+        bottom: 2px;
+        left: 17px;
+    }
+
+    .card-title {
+
+        height: 33px !important;
+        width: 90% !important;
+        position: relative;
+        left: 10px !important;
+    }
+
+    .try-free {
+        height: 39px !important;
+        width: 133px !important;
+        position: relative;
+        bottom: 37px !important;
+        left: 41px !important;
+
+    }
+
+    .more {
+        position: relative;
+        left: 48px !important;
+        top: -20px !important;
+        font-size: 23px !important;
+    }
+
+    .ai-tool {
+        position: relative;
+        left: 62px !important;
+        top: 33px !important;
+        width: 74%;
+    }
+
+    .lovin {
+        height: 64px !important;
+        width: 127px !important;
+        background-color: white;
+        position: relative;
+        top: 14px !important;
+        left: 13px !important;
+        border-radius: 25px !important;
+    }
+
+    .app {
+        height: 45px !important;
+        width: 49.5% !important;
+        border-top-left-radius: 25px;
+        border-top-right-radius: 25px;
+        background-color: #FF725E;
+        position: relative;
+        left: 130.1px !important;
+        top: 1px !important;
+    }
+
+    .cover {
+        position: relative;
+        top: 55px !important;
+        font-size: 9px !important;
+    }
+
+    .bunga {
+        font-size: 9px !important;
+    }
+
+    .img-woman {
+        position: relative;
+        bottom: 36px !important;
+    }
+
+    .jessica-bunga {
+        position: relative;
+        bottom: 1px !important;
+        width: 67% !important;
+    }
+
+    .app2 {
+        height: 45px !important;
+        width: 59% !important;
+
+        position: relative;
+        top: 1px !important;
+
+    }
+
+    .letter {
+
+        font-size: 10px !important;
+    }
+
+    .messi {
+        position: relative;
+        left: 92px !important;
+        bottom: 1px !important;
+        width: 70% !important;
+    }
+
+    .img-mbida {
+        border-radius: 32px;
+        height: 50px;
+        width: 50px;
+        position: relative;
+        left: 1rem !important;
+        bottom: 2rem !important;
+    }
+
+    .mbida {
+        position: relative;
+        left: 1rem !important;
+        bottom: 2rem !important;
+        font-size: 10px !important;
+    }
+
+    .netflix-app {
+
+        height: 45px !important;
+        width: 54.5% !important;
+        position: relative;
+        left: 8rem !important;
+
+    }
+
+    .netfli {
+        height: 50px !important;
+        width: 150px !important;
+        background-color: white;
+        position: relative;
+        top: 11px !important;
+        left: 9px !important;
+    }
+
+    .manager {
+        font-size: 11px !important;
+
+    }
+
+    .ai-lovin {
+        position: relative;
+        left: 2rem !important;
+    }
+
+    .app-ai {
+        height: 45px !important;
+        width: 57.5% !important;
+        position: relative;
+        top: 1px !important;
+        right: -49px !important;
+
+    }
+
+    .ai-cover {
+        background-color: #918EA4;
+        height: 178px !important;
+        width: 92.5% !important;
+        position: relative;
+        right: -49px !important;
+
+    }
+
+    .app2 .googly {
+        height: 53px !important;
+        width: 138px !important;
+        background-color: white;
+        position: relative;
+        top: 5px !important;
+        left: 8px !important;
+        border-radius: 28px !important;
+    }
+
+    .impress {
+        position: relative;
+        top: 2rem !important;
+        left: 1rem !important;
+        font-size: 10.5px !important;
+    }
+
+    .img-sunarto-2 {
+        position: relative;
+        bottom: 24px !important;
+        left: 0.5pc !important;
+        border-radius: 23px !important;
+    }
+
+    .tami {
+        height: 45px;
+        width: 66%;
+        background-color: #918EA4;
+        border-bottom-left-radius: 34px;
+        border-bottom-right-radius: 34px;
+        position: relative;
+        left: 120.2px !important;
+        bottom: 1px !important;
+    }
+
+    .sunart-2 {
+        position: relative;
+        bottom: 27px !important;
+        left: 7px !important;
+
+    }
+
+    .app-ai .googly {
+        height: 30px !important;
+        width: 130px !important;
+        background-color: white;
+        position: relative;
+        top: 11px !important;
+        left: 14px !important;
+        border-radius: 20px !important;
+    }
+
+    .sunart-2 span {
+        font-size: 11px !important;
+    }
+
+    .basic-pro-enter .card {
+        background-color: #F2F3F5;
+        height: 470px !important;
+        width: 30% !important;
+        border-radius: 23px;
+    }
+
+    .info-section {
+        font-size: 11px !important;
+
+    }
+
+    .ideal {
+        font-size: 9px !important;
+        color: #878787;
+    }
+
+    .includes {
+
+        font-size: 11px !important;
+    }
+
+    .frequent-ask {
+        width: 100% !important;
+        position: relative;
+        left: 1px !important;
+    }
+
+    .frequent {
+        position: relative;
+        left: 273px !important;
+        width: 221px !important;
+    }
+
+    .some {
+        position: relative;
+        width: 25% !important;
+        left: 301px !important;
+    }
+
+    .footer-detail {
+        width: 88% !important;
+    }
+
+    .img-next {
+        height: 50px !important;
+        width: 50% !important;
+    }
+
+    .tooling {
+        font-size: 6px !important;
+    }
+
+    .leap-main {
+        width: 26% !important;
+        font-size: 10px !important;
+        position: relative;
+        right: 58px !important;
+    }
+
+    .project {
+        width: 98% !important;
+        font-size: 9px !important;
+    }
+
+    .resource-main {
+        position: relative;
+        top: 118px !important;
+        right: 42px !important;
+    }
+
+    .resource-main h5 {
+        font-size: 14px !important;
+    }
+
+    .resource {
+        height: 170px !important;
+        font-size: 9px !important;
+    }
+
+    .touch h5 {
+        font-size: 12px !important;
+    }
+
+    .address {
+        font-size: 6px !important;
+        width: 53% !important;
+    }
+
+    .get-touch {
+        height: 250px;
+        position: relative;
+        top: 120px;
+        right: 30px !important;
+        width: 20% !important;
+    }
+
+    .contact {
+        width: 90% !important;
+        position: relative;
+        right: 19px !important;
+    }
+
+    .img-phone {
+        position: relative;
+        bottom: 13px !important;
+    }
+
+    .number {
+        font-size: 6px !important;
+        line-height: 0px;
+    }
+
+    .email {
+        font-size: 8px !important;
+        width: 77%;
+    }
+
+    .newsletter {
+        width: 37% !important;
+        position: relative;
+        right: 2px !important;
+
+    }
+
+    .subscribe h5 {
+        font-size: 11px !important;
+    }
+
+    .latest {
+        font-size: 7px !important;
+    }
+
+    .frequent-ask .relevant {
+        width: 65% !important;
+        position: relative;
+    }
+}
+
+
+@media (max-width:426px) {
+
+    body{
+        overflow-x: hidden;
+    }
+    .navbar {
+        width: 100% !important;
+    }
+
+    body {
+        overflow-x: hidden !important;
+    }
+
+    .career-toolkit {
+        width: 100% !important;
+        position: relative;
+        left: -7px !important;
+
+
+    }
+
+    .toolkit1 .col-md-9 {
+        font-size: 10px !important;
+        width: 90% !important;
+    }
+
+    .career-toolkit .slide {
+        border: 15px solid #006B72 !important;
+        border-radius: 311px;
+    }
+
+    .toolkit1 {
+        width: 100% !important;
+    }
+
+    .toolkit1 .career {
+        width: 94% !important;
+        color: #308889 !important;
+        font-weight: 500 !important;
+        position: relative;
+        left: -42px !important;
+        font-size: 15px !important;
+    }
+
+
+
+
+    .bring {
+        background-color: #308889;
+        color: white;
+        height: 40px !important;
+        width: 90% !important;
+        font-size: 11px !important;
+    }
+
+    .bring p {
+        font-size: 9px !important;
+        position: relative;
+        top: 11px !important;
+    }
+
+
+
+
+
+    .carousel-toolkit {
+        width: 50% !important;
+        position: relative;
+        left: -11px !important;
+        top: 99px !important;
+    }
+
+
+    .carousel-toolkit .slide {
+        border: 14px solid #006B72 !important;
+        border-radius: 311px !important;
+    }
+
+    .toolkit1 {
+        position: relative;
+        top: 7rem;
+    }
+
+    .toolkit1 .col-md-9 {
+        font-size: 8px !important;
+        width: 100% !important;
+        font-weight: 500;
+    }
+
+
+    .number-list {
+        position: relative;
+        top: 53px !important;
+    }
+
+    .border-lines2 {
+        position: absolute;
+        left: 201px !important;
+        top: 412px !important;
+    }
+
+    .second-line2 {
+        border-bottom: 1.5px solid #FF725E;
+        width: 136px !important;
+        position: relative;
+        right: -34px !important;
+        bottom: 31px !important;
+    }
+
+    .bullets {
+        width: 40%;
+        position: relative;
+        top: 7.5rem !important;
+        left: 3rem !important;
+    }
+
+    .get-start {
+        width: 46% !important;
+        position: relative;
+        top: 126px !important;
+    }
+
+    .innovative-ai {
+        position: relative;
+        top: 130px !important;
+    }
+
+    .innovative {
+        position: relative;
+        top: 65px !important;
+    }
+
+
+    .innovative .solution {
+        font-size: 18px !important;
+        position: relative;
+        top: 10px !important;
+        right: 20px !important;
+    }
+
+    .innovative p {
+        font-size: 4px !important;
+    }
+
+    .border-lines3 {
+        position: relative;
+        bottom: 1px !important;
+        width: 40% !important;
+        left: 50px !important;
+    }
+
+    .second-line3 {
+
+        position: relative;
+        right: 36px;
+    }
+
+    .cap1 {
+        width: 76% !important;
+        position: relative;
+        left: 73px !important;
+    }
+
+    .dream-job {
+        position: relative;
+        left: -61px !important;
+        width: 65% !important;
+        top: 115px !important;
+    }
+
+    .perfect-tool {
+        position: relative;
+        top: 114px !important;
+        left: -34px !important;
+    }
+
+    .next {
+        position: relative;
+        right: 29px !important;
+    }
+
+    .goal {
+        position: relative;
+        right: 27px !important;
+    }
+
+    .tool h1 {
+        font-size: 11px !important;
+    }
+
+    .tool p {
+        font-size: 5px !important;
+    }
+
+    .career-toolkitt {
+        position: relative;
+        left: 80px !important;
+    }
+
+    .career-toolkitt p {
+        font-size: 5px !important;
+        position: relative;
+        left: -25px !important;
+    }
+
+
+    .started {
+        height: 29px !important;
+        width: 124% !important;
+        position: relative;
+        left: -30px !important;
+    }
+
+    .started .btn {
+        font-size: 10px !important;
+    }
+
+    .img-layer {
+        height: 25px !important;
+        width: 26px !important;
+        position: relative;
+        left: 0px;
+    }
+
+    .tooll {
+        font-size: 26px !important;
+    }
+
+
+
+    .cards-list .card {
+        height: 260px !important;
+        width: 31% !important;
+    }
+
+    .complete {
+        font-size: x-small;
+    }
+
+    .try-free {
+        height: 29px !important;
+        width: 93px !important;
+        position: relative;
+        bottom: 47px !important;
+        left: 11px !important;
+    }
+
+    .card-title {
+        height: 30px !important;
+        width: 100% !important;
+        position: relative;
+        left: 1px !important;
+    }
+
+    .para {
+        font-size: 7px !important;
+
+        position: relative;
+        bottom: 23px !important;
+    }
+
+    .card-title p {
+        font-size: 9px !important;
+        position: relative;
+        top: 8px !important;
+    }
+
+
+    .btn-free {
+        font-size: 10px !important;
+    }
+
+    .ai-tool {
+        position: relative;
+        left: 27px !important;
+        top: 113px !important;
+        width: 74%;
+    }
+
+    .more {
+        position: relative;
+        left: 14px !important;
+        top: -22px !important;
+        font-size: 14px !important;
+    }
+
+
+    .success-stories {
+        position: relative;
+        top: 96px !important;
+        right: -7px !important;
+    }
+
+    .final {
+        font-size: 11px !important;
+        font-weight: 500;
+        position: relative;
+        right: 10px;
+    }
+
+    .apps {
+        position: relative;
+        top: 100px !important;
+    }
+
+    .app {
+        width: 76.5% !important;
+        position: relative;
+        left: 34.1px !important;
+        top: 1px !important;
+    }
+
+    .loving {
+        background-color: #FF725E;
+        height: 176px;
+        width: 109%;
+        border-top-left-radius: 34px;
+        border-bottom-right-radius: 34px;
+        position: relative;
+        right: 21px;
+    }
+
+    .lovin {
+        height: 40px !important;
+        width: 106px !important;
+        background-color: white;
+        position: relative;
+        top: 4px !important;
+        left: 13px !important;
+        border-radius: 25px !important;
+    }
+
+    .img-lovin {
+        height: 30px !important;
+        width: 30px !important;
+        position: relative;
+        bottom: 6px !important;
+    }
+
+    .jessica-bunga {
+        position: relative;
+        bottom: 1px !important;
+        height: 35px;
+        width: 79% !important;
+        right: 21px !important;
+    }
+
+    .bunga {
+        font-size: 5px !important;
+        margin-top: 6px !important;
+        margin-right: 3px !important;
+    }
+
+    .bunga h6 {
+        font-size: 9px !important;
+    }
+
+    .app2 {
+        height: 44px !important;
+        width: 71% !important;
+        position: relative;
+        top: 1px !important;
+    }
+
+    .app2 .googly {
+        height: 39px !important;
+        width: 106px !important;
+        background-color: white;
+        position: relative;
+        top: 5px !important;
+        left: 8px !important;
+        border-radius: 28px !important;
+    }
+
+    .img-google {
+        height: 100px !important;
+        width: 91px !important;
+        position: relative;
+        bottom: 31px !important;
+        left: 3px !important;
+    }
+
+    .googling {
+        width: 119% !important;
+    }
+
+
+    .letter {
+        font-size: 9px !important;
+        position: relative;
+        right: 5px !important;
+    }
+
+    .messi {
+        position: relative;
+        left: 56.2px !important;
+        bottom: 1px !important;
+        width: 86% !important;
+    }
+
+    .img-mbida {
+        position: relative;
+        left: 12px !important;
+        top: -32px !important;
+    }
+
+    .mbida h6 {
+        font-size: 9px !important;
+    }
+
+
+    .mbida {
+        position: relative;
+        left: 0.6rem !important;
+        bottom: 1.5rem !important;
+        font-size: 7px !important;
+    }
+
+
+
+    .apps2 {
+        position: relative;
+        top: 121px !important;
+        right: 50px !important;
+    }
+
+    .netflix-app {
+        height: 45px !important;
+        width: 72.5% !important;
+        position: relative;
+        left: 70px !important;
+    }
+
+    .netfli {
+        height: 46px !important;
+        width: 107px !important;
+    }
+
+    .img-netfli {
+
+        height: 35px;
+        width: 65px;
+        position: relative;
+        top: -2px !important;
+        right: -10px !important;
+    }
+
+    .netflixing {
+
+        width: 141% !important;
+    }
+
+
+    .sunarto {
+        width: 96% !important;
+    }
+
+    .sunart h6 {
+        font-size: 12px !important;
+    }
+
+    .sunart .manager {
+        font-size: 8px !important;
+    }
+
+    .app-ai {
+        height: 45px !important;
+        width: 62.5% !important;
+    }
+
+    .app-ai .googly {
+        height: 31px !important;
+        width: 71px !important;
+        background-color: white;
+        position: relative;
+        top: 10px !important;
+        left: 12px !important;
+        border-radius: 20px !important;
+
+    }
+
+    .ai-cover {
+        height: 178px !important;
+        width: 110.5% !important;
+    }
+
+    .impress {
+        position: relative;
+        top: 2rem !important;
+        left: -8px !important;
+        font-size: 10.5px !important;
+    }
+
+    .tami {
+        height: 45px;
+        width: 81%;
+        background-color: #918EA4;
+        border-bottom-left-radius: 34px;
+        border-bottom-right-radius: 34px;
+        position: relative;
+        left: 92.5px !important;
+        bottom: 1px !important;
+    }
+
+    .tami .img-sunarto-2 {
+        position: relative;
+        right: 5px !important;
+    }
+
+    .sunart-2 h6 {
+        font-size: 9px !important;
+
+
+    }
+
+    .sunart-2 span {
+        font-size: 7px !important;
+    }
+
+    .pricing {
+        position: relative;
+        top: 143px !important;
+    }
+
+    .pricing h3 {
+        font-size: 16px !important;
+    }
+
+    .pricing p {
+        font-size: 10px !important;
+    }
+
+    .basic-pro-enter {
+        position: relative;
+        top: 110px !important;
+    }
+
+    .basic-pro-enter .card {
+        background-color: #F2F3F5;
+        height: 266px !important;
+        width: 30% !important;
+        border-radius: 23px;
+    }
+
+
+    .includes {
+        font-size: 5px !important;
+    }
+
+    .ideal {
+        font-size: 3px !important;
+        position: relative;
+        right: 15px !important;
+        color: #878787;
+    }
+
+    .info-section {
+        font-size: 4px !important;
+        height: 105px !important;
+        position: relative;
+        bottom: 25px !important;
+    }
+
+    .dollar {
+        font-weight: bold;
+        position: relative;
+        top: 1px;
+        bottom: 7px;
+        left: 5px;
+        right: 3px;
+        font-size: 10px;
+    }
+
+    .price {
+        font-size: 20px !important;
+        position: relative;
+        top: 9px !important;
+        left: 2px !important;
+    }
+
+    .month {
+        font-size: 12px !important;
+    }
+
+    .basic h4 {
+        font-size: 15px !important;
+    }
+
+    .choose-this {
+        height: 30px !important;
+        position: relative;
+        top: -62px !important;
+    }
+
+
+    .btn-choose {
+        font-size: 13px !important;
+        background: none;
+    }
+
+    .choose-this-2 {
+        height: 30px !important;
+        position: relative;
+        top: -62px !important;
+    }
+
+    .btn-choose-2 {
+        font-size: 13px !important;
+    }
+
+
+
+
+    .img-vector {
+
+        height: 15px !important;
+        width: 15px !important;
+    }
+
+
+    .frequent-ask {
+        position: relative;
+        top: 82px !important;
+    }
+
+    .frequent {
+        position: relative;
+        left: 112px !important;
+        width: 221px !important;
+    }
+
+    .frequent p {
+        font-size: 14px !important;
+    }
+
+    .frequent-ask .relevant {
+        font-size: 13px !important;
+    }
+
+    .some {
+        position: relative;
+        width: 37% !important;
+        left: 170px !important;
+        font-size: 20px;
+    }
+
+    .best-company {
+        height: 40px;
+        background-color: #4ECDC4;
+        border-radius: 30px;
+    }
+
+    .pricing {
+
+        position: relative;
+        bottom: 5px !important;
+
+    }
+
+    .img-horizontal {
+        position: relative;
+        bottom: 6px !important;
+    }
+
+    .company {
+        position: relative;
+        bottom: 3px !important;
+    }
+
+    .awesome {
+        height: 40px !important;
+
+    }
+
+    .img-plus {
+
+        position: relative;
+        top: -5px !important;
+    }
+
+    .footer {
+        position: relative;
+        top: 100px !important;
+    }
+
+    .img-next {
+        height: 37px !important;
+        width: 100% !important;
+    }
+
+    .project {
+        width: 114% !important;
+        font-size: 5px !important;
+    }
+
+    .img-icon {
+        height: 10px !important;
+        width: 10px !important;
+    }
+
+    .footer-detail {
+        width: 88% !important;
+    }
+
+    .leap-main {
+        width: 26% !important;
+        font-size: 10px !important;
+        position: relative;
+        right: 72px !important;
+    }
+
+    .resource-main {
+        width: 24% !important;
+        position: relative;
+        top: 124px !important;
+        right: 134px !important;
+    }
+
+    .resource-main h5 {
+        font-size: 9px !important;
+    }
+
+    .resource {
+        height: 170px !important;
+        font-size: 7px !important;
+    }
+
+    .get-touch {
+
+        position: relative;
+        top: 125px;
+        right: 213px !important;
+        width: 20% !important;
+    }
+
+
+    .touch {
+        width: 210% !important;
+    }
+
+
+    .touch h5 {
+        font-size: 8px !important;
+        margin-top: 1px !important;
+        width: 65% !important;
+        position: relative;
+        right: 2px;
+    }
+
+    .address {
+        font-size: 6px !important;
+        width: 126% !important;
+        position: relative;
+        right: 4px;
+    }
+
+    .contact {
+        width: 160% !important;
+    }
+
+    .email {
+        font-size: 5px !important;
+    }
+
+    .img-phone {
+        height: 15px !important;
+        width: 15px !important;
+    }
+
+    .subscribe {
+        width: 131% !important;
+        position: relative;
+        left: 17px !important;
+    }
+
+    .subscribe h5 {
+        font-size: 8px !important;
+    }
+
+    .search {
+        width: 128% !important;
+        height: 31px !important;
+    }
+
+    .search-icon {
+        height: 31px;
+        width: 34%;
+    }
+
+    .borderr {
+        height: 25px !important;
+        width: 3px !important;
+        border: none;
+        background-color: #FF725E;
+    }
+
+    .borderr2 {
+        height: 24px;
+        width: 3px;
+        border: none;
+        background-color: #FF725E;
+    }
+
+    .newsletter {
+        width: 37% !important;
+        position: relative;
+        right: 2px !important;
+        top: -121px;
+        left: 171px;
+    }
+
+    .latest {
+        font-size: 3px !important;
+    }
+}
+
+
+@media (max-width:376px) {
+
+    body{
+        overflow-x: hidden;
+    }
+
+    .navbar {
+        width: 100% !important;
+    }
+
+    body {
+        overflow-x: hidden !important;
+    }
+
+    .career-toolkit {
+        width: 100% !important;
+        position: relative;
+        left: -7px !important;
+
+
+    }
+
+    .toolkit1 .col-md-9 {
+        font-size: 10px !important;
+        width: 90% !important;
+    }
+
+    .career-toolkit .slide {
+        border: 15px solid #006B72 !important;
+        border-radius: 311px;
+    }
+
+    .toolkit1 {
+        width: 100% !important;
+    }
+
+    .toolkit1 .career {
+        width: 94% !important;
+        color: #308889 !important;
+        font-weight: 500 !important;
+        position: relative;
+        left: -42px !important;
+        font-size: 15px !important;
+    }
+
+
+    .one {
+        background-color: #4ECDC4;
+        height: 18px !important;
+        width: 26px !important;
+    }
+
+
+    .bring {
+        background-color: #308889;
+        color: white;
+        height: 40px !important;
+        width: 90% !important;
+        font-size: 11px !important;
+    }
+
+    .bring p {
+        font-size: 9px !important;
+        position: relative;
+        top: 11px !important;
+    }
+
+
+
+
+
+    .carousel-toolkit {
+        width: 50% !important;
+        position: relative;
+        left: -11px !important;
+        top: 99px !important;
+    }
+
+
+    .carousel-toolkit .slide {
+        border: 14px solid #006B72 !important;
+        border-radius: 311px !important;
+    }
+
+    .toolkit1 {
+        position: relative;
+        top: 7rem;
+    }
+
+    .toolkit1 .col-md-9 {
+        font-size: 7px !important;
+        width: 100% !important;
+        font-weight: 500;
+    }
+
+
+    .img-line {
+        height: 36px;
+        width: 25px;
+        position: relative;
+        left: 4px;
+        top: -6px;
+    }
+
+
+    .number-list {
+        position: relative;
+        top: 53px !important;
+    }
+
+    .border-lines2 {
+        position: absolute;
+        left: 164px !important;
+        top: 325px !important;
+    }
+
+    .second-line2 {
+        border-bottom: 1.5px solid #FF725E;
+        width: 136px !important;
+        position: relative;
+        right: -34px !important;
+        bottom: 31px !important;
+    }
+
+    .bullets {
+        width: 40%;
+        position: relative;
+        top: 7.5rem !important;
+        left: 3rem !important;
+    }
+
+    .get-start {
+        width: 40% !important;
+        height: 38px !important;
+
+    }
+
+    .get-start .btn {
+        font-size: 10px !important;
+    }
+
+    .innovativ-ai {
+        position: relative;
+        top: 100px !important;
+    }
+
+    .innovative {
+        position: relative;
+        top: 65px !important;
+    }
+
+
+    .innovative .solution {
+        font-size: 16px !important;
+        position: relative;
+        top: 10px !important;
+        right: 20px !important;
+    }
+
+    .innovative p {
+        font-size: 4px !important;
+        position: relative;
+        right: 19px !important;
+    }
+
+    .border-lines3 {
+        position: relative;
+        bottom: 1px !important;
+        width: 40% !important;
+        left: 40px !important;
+    }
+
+    .second-line3 {
+
+        position: relative;
+        right: 36px;
+    }
+
+    .cap1 {
+        width: 76% !important;
+        position: relative;
+        left: 73px !important;
+    }
+
+    .dream-job {
+        position: relative;
+        left: -52px !important;
+        width: 65% !important;
+        top: 114px !important;
+    }
+
+    .perfect-tool {
+        position: relative;
+        top: 114px !important;
+        left: -34px !important;
+    }
+
+    .next {
+        position: relative;
+        right: 29px !important;
+    }
+
+    .goal {
+        position: relative;
+        right: 27px !important;
+        font-size: 10px !important;
+    }
+
+    .tool h1 {
+
+        font-size: 8px !important;
+    }
+
+    .tool p {
+        font-size: 4px !important;
+    }
+
+    .career-toolkitt {
+        position: relative;
+        left: 80px !important;
+    }
+
+    .career-toolkitt p {
+        font-size: 4px !important;
+        position: relative;
+        left: -25px !important;
+    }
+
+
+    .started {
+        height: 29px !important;
+        width: 122% !important;
+        position: relative;
+        left: -35px !important;
+    }
+
+    .started .btn {
+        font-size: 9px !important;
+    }
+
+    .img-layer {
+        height: 25px !important;
+        width: 26px !important;
+        position: relative;
+        left: 0px;
+    }
+
+    .tooll {
+        font-size: 23px !important;
+    }
+
+
+
+    .cards-list .card {
+        height: 260px !important;
+        width: 31% !important;
+    }
+
+    .complete {
+        font-size: x-small;
+    }
+
+    .try-free {
+        height: 29px !important;
+        width: 86px !important;
+        position: relative;
+        bottom: 55px !important;
+        left: 9px !important;
+    }
+
+    .card-title {
+        height: 30px !important;
+        width: 116% !important;
+        position: relative;
+        left: -4px !important;
+    }
+
+    .para {
+        font-size: 6px !important;
+        position: relative;
+        bottom: 30px !important;
+    }
+
+    .card-title p {
+        font-size: 9px !important;
+        position: relative;
+        top: 8px !important;
+    }
+
+
+    .btn-free {
+        font-size: 10px !important;
+    }
+
+    .ai-tool {
+        position: relative;
+        left: 25.8px !important;
+        top: 113px !important;
+        width: 74%;
+    }
+
+
+
+    .more {
+        position: relative;
+        left: 15px !important;
+        top: -22px !important;
+        font-size: 12px !important;
+    }
+
+    .success {
+        height: 34px !important;
+        width: 109px !important;
+        font-size: 11px !important;
+        border: none;
+        border-radius: 30px;
+        background-color: #918EA4;
+    }
+
+    .ace {
+        font-size: 15px !important;
+    }
+
+    .success-stories {
+        position: relative;
+        top: 96px !important;
+        right: -7px !important;
+    }
+
+    .final {
+        font-size: 9px !important;
+        font-weight: 500;
+        position: relative;
+        right: 10px;
+    }
+
+    .apps {
+        position: relative;
+        top: 100px !important;
+    }
+
+    .app {
+        width: 71.5% !important;
+        position: relative;
+        left: 35.3px !important;
+        top: 1px !important;
+    }
+
+    .loving {
+        background-color: #FF725E;
+        height: 176px;
+        width: 109%;
+        border-top-left-radius: 34px;
+        border-bottom-right-radius: 34px;
+        position: relative;
+        right: 21px;
+    }
+
+    .lovin {
+        height: 40px !important;
+        width: 90px !important;
+        background-color: white;
+        position: relative;
+        top: 4px !important;
+        left: 9px !important;
+        border-radius: 25px !important;
+    }
+
+    .img-lovin {
+        height: 30px !important;
+        width: 30px !important;
+        position: relative;
+        bottom: 6px !important;
+    }
+
+    .jessica-bunga {
+        position: relative;
+        bottom: 1px !important;
+        height: 35px;
+        width: 78% !important;
+        right: 21px !important;
+    }
+
+    .bunga {
+        font-size: 5px !important;
+        margin-top: 6px !important;
+        margin-right: 3px !important;
+    }
+
+    .bunga h6 {
+        font-size: 6px !important;
+    }
+
+    .app2 {
+        height: 44px !important;
+        width: 71% !important;
+        position: relative;
+        top: 1px !important;
+    }
+
+    .app2 .googly {
+        height: 39px !important;
+        width: 92px !important;
+        background-color: white;
+        position: relative;
+        top: 5px !important;
+        left: 8px !important;
+        border-radius: 28px !important;
+    }
+
+    .img-google {
+        height: 100px !important;
+        width: 91px !important;
+        position: relative;
+        bottom: 31px !important;
+        left: 3px !important;
+    }
+
+    .googling {
+        width: 125% !important;
+    }
+
+
+    .letter {
+        font-size: 9px !important;
+        position: relative;
+        right: 5px !important;
+    }
+
+    .messi {
+        position: relative;
+        left: 58.4px !important;
+        bottom: 1px !important;
+        width: 86% !important;
+    }
+
+    .img-mbida {
+        position: relative;
+        left: -6px !important;
+        top: -32px !important;
+    }
+
+    .mbida h6 {
+        font-size: 9px !important;
+    }
+
+
+    .mbida {
+        position: relative;
+        left: -0.4rem !important;
+        bottom: 1.5rem !important;
+        font-size: 7px !important;
+    }
+
+
+
+    .apps2 {
+        position: relative;
+        top: 121px !important;
+        right: 50px !important;
+    }
+
+    .netflix-app {
+        height: 45px !important;
+        width: 72.5% !important;
+        position: relative;
+        left: 70px !important;
+    }
+
+    .netfli {
+        height: 46px !important;
+        width: 97px !important;
+    }
+
+    .img-netfli {
+
+        height: 35px;
+        width: 65px;
+        position: relative;
+        top: -2px !important;
+        right: -10px !important;
+    }
+
+    .netflixing {
+
+        width: 141% !important;
+    }
+
+
+    .sunarto {
+        width: 96% !important;
+        position: relative;
+        bottom: 1px !important;
+    }
+
+    .sunart h6 {
+        font-size: 12px !important;
+    }
+
+    .sunart .manager {
+        font-size: 8px !important;
+    }
+
+    .app-ai {
+        height: 45px !important;
+        width: 62.5% !important;
+    }
+
+    .app-ai .googly {
+        height: 31px !important;
+        width: 71px !important;
+        background-color: white;
+        position: relative;
+        top: 10px !important;
+        left: 6px !important;
+        border-radius: 20px !important;
+    }
+
+    .ai-cover {
+        height: 178px !important;
+        width: 110.5% !important;
+    }
+
+    .impress {
+        position: relative;
+        top: 2rem !important;
+        left: -8px !important;
+        font-size: 10.5px !important;
+    }
+
+    .tami {
+        height: 45px;
+        width: 81%;
+        background-color: #918EA4;
+        border-bottom-left-radius: 34px;
+        border-bottom-right-radius: 34px;
+        position: relative;
+        left: 87.9px !important;
+        bottom: 1px !important;
+    }
+
+    .tami .img-sunarto-2 {
+        position: relative;
+        right: 5px !important;
+    }
+
+    .sunart-2 h6 {
+        font-size: 6px !important;
+    }
+
+    .sunart-2 span {
+        font-size: 7px !important;
+    }
+
+    .pricing {
+        position: relative;
+        top: 143px !important;
+    }
+
+    .pricing h3 {
+        font-size: 16px !important;
+    }
+
+    .pricing p {
+        font-size: 9px !important;
+    }
+
+    .basic-pro-enter {
+        position: relative;
+        top: 110px !important;
+    }
+
+    .basic-pro-enter .card {
+        background-color: #F2F3F5;
+        height: 266px !important;
+        width: 30% !important;
+        border-radius: 23px;
+    }
+
+
+    .includes {
+        font-size: 4px !important;
+    }
+
+    .ideal {
+        font-size: 3px !important;
+        position: relative;
+        right: 15px !important;
+        color: #878787;
+    }
+
+    .info-section {
+        font-size: 3px !important;
+        height: 105px !important;
+        position: relative;
+        bottom: 25px !important;
+    }
+
+    .dollar {
+        font-weight: bold;
+        position: relative;
+        top: 1px;
+        bottom: 7px;
+        left: 5px;
+        right: 3px;
+        font-size: 10px;
+    }
+
+    .price {
+        font-size: 20px !important;
+        position: relative;
+        top: 9px !important;
+        left: 2px !important;
+    }
+
+    .month {
+        font-size: 12px !important;
+    }
+
+    .basic h4 {
+        font-size: 12px !important;
+    }
+
+    .choose-this {
+        height: 30px !important;
+        position: relative;
+        top: -62px !important;
+    }
+
+
+    .btn-choose {
+        font-size: 9px !important;
+        background: none;
+    }
+
+    .Credit span {
+        margin-top: 5px !important;
+    }
+
+    .support span {
+        margin-top: 5px !important;
+    }
+
+    .jobs span {
+        margin-top: 5px !important;
+    }
+
+    .choose-this-2 {
+        height: 30px !important;
+        position: relative;
+        top: -62px !important;
+    }
+
+    .btn-choose-2 {
+        font-size: 9px !important;
+    }
+
+
+
+
+    .img-vector {
+
+        height: 15px !important;
+        width: 15px !important;
+    }
+
+
+    .frequent-ask {
+        position: relative;
+        top: 82px !important;
+    }
+
+    .frequent {
+        position: relative;
+        left: 85px !important;
+        width: 221px !important;
+    }
+
+    .frequent p {
+        font-size: 14px !important;
+    }
+
+    .frequent-ask .relevant {
+        font-size: 12px !important;
+    }
+
+    .btn-awesome {
+        font-size: 12px !important;
+    }
+
+    .some {
+        position: relative;
+        width: 37% !important;
+        left: 147px !important;
+        font-size: 20px;
+    }
+
+    .best-company {
+        height: 40px;
+        background-color: #4ECDC4;
+        border-radius: 30px;
+    }
+
+    .pricing {
+
+        position: relative;
+        bottom: 5px !important;
+
+    }
+
+    .img-horizontal {
+        position: relative;
+        bottom: 6px !important;
+    }
+
+    .company {
+        position: relative;
+        bottom: 3px !important;
+    }
+
+    .awesome {
+        height: 40px !important;
+
+    }
+
+    .img-plus {
+
+        position: relative;
+        top: -5px !important;
+    }
+
+    .footer {
+        position: relative;
+        top: 100px !important;
+    }
+
+    .img-next {
+        height: 37px !important;
+        width: 100% !important;
+    }
+
+    .project {
+        width: 134% !important;
+        font-size: 5px !important;
+    }
+
+    .img-icon {
+        height: 10px !important;
+        width: 10px !important;
+    }
+
+    .footer-detail {
+        width: 88% !important;
+    }
+
+    .leap-main {
+        width: 26% !important;
+        font-size: 10px !important;
+        position: relative;
+        right: 72px !important;
+    }
+
+    .resource-main {
+        width: 24% !important;
+        position: relative;
+        top: 124px !important;
+        right: 120px !important;
+    }
+
+    .resource-main h5 {
+        font-size: 9px !important;
+    }
+
+    .resource {
+        height: 170px !important;
+        font-size: 5px !important;
+    }
+
+    .get-touch {
+
+        position: relative;
+        top: 125px;
+        right: 197px !important;
+        width: 20% !important;
+    }
+
+
+    .touch {
+        width: 210% !important;
+    }
+
+
+    .touch h5 {
+        font-size: 6px !important;
+        margin-top: 1px !important;
+        width: 65% !important;
+        position: relative;
+        right: 2px;
+    }
+
+    .address {
+        font-size: 6px !important;
+        width: 140% !important;
+        position: relative;
+        right: 4px;
+    }
+
+    .contact {
+        width: 160% !important;
+    }
+
+    .email {
+        font-size: 5px !important;
+    }
+
+    .img-phone {
+        height: 15px !important;
+        width: 15px !important;
+    }
+
+    .subscribe {
+        width: 131% !important;
+        position: relative;
+        left: 17px !important;
+    }
+
+    .subscribe h5 {
+        font-size: 6px !important;
+    }
+
+    .search {
+        width: 128% !important;
+        height: 31px !important;
+    }
+
+    .search-icon {
+        height: 31px;
+        width: 34%;
+    }
+
+    .borderr {
+        height: 25px !important;
+        width: 3px !important;
+        border: none;
+        background-color: #FF725E;
+    }
+
+    .borderr2 {
+        height: 24px;
+        width: 3px;
+        border: none;
+        background-color: #FF725E;
+    }
+
+    .newsletter {
+        width: 37% !important;
+        position: relative;
+        right: 2px !important;
+        top: -121px !important;
+        left: 140px !important;
+    }
+
+    .latest {
+        font-size: 2px !important;
+    }
+}
+
+@media (max-width:321px) {
+
+    body{
+        overflow-x: hidden;
+    }
+
+
+    .navbar {
+        width: 100% !important;
+    }
+
+    body {
+        overflow-x: hidden !important;
+    }
+
+    .career-toolkit {
+        width: 100% !important;
+        position: relative;
+        left: -7px !important;
+
+
+    }
+
+    .toolkit1 .col-md-9 {
+        font-size: 10px !important;
+        width: 90% !important;
+    }
+
+    .career-toolkit .slide {
+        border: 15px solid #006B72 !important;
+        border-radius: 311px;
+    }
+
+    .toolkit1 {
+        width: 100% !important;
+    }
+
+    .toolkit1 .career {
+        width: 94% !important;
+        color: #308889 !important;
+        font-weight: 500 !important;
+        position: relative;
+        left: -42px !important;
+        font-size: 15px !important;
+    }
+
+
+    .one {
+        background-color: #4ECDC4;
+        height: 18px !important;
+        width: 26px !important;
+    }
+
+
+    .bring {
+        background-color: #308889;
+        color: white;
+        height: 40px !important;
+        width: 90% !important;
+        font-size: 11px !important;
+    }
+
+    .bring p {
+        font-size: 9px !important;
+        position: relative;
+        top: 11px !important;
+    }
+
+
+
+
+
+    .carousel-toolkit {
+        width: 50% !important;
+        position: relative;
+        left: -11px !important;
+        top: 99px !important;
+    }
+
+
+    .carousel-toolkit .slide {
+        border: 14px solid #006B72 !important;
+        border-radius: 311px !important;
+    }
+
+    .toolkit1 {
+        position: relative;
+        top: 7rem;
+    }
+
+    .toolkit1 .col-md-9 {
+        font-size: 7px !important;
+        width: 100% !important;
+        font-weight: 500;
+    }
+
+
+    .img-line {
+        height: 36px;
+        width: 25px;
+        position: relative;
+        left: 4px;
+        top: -6px;
+    }
+
+
+    .number-list {
+        position: relative;
+        top: 53px !important;
+    }
+
+    .border-lines2 {
+        position: absolute;
+        left: 164px !important;
+        top: 325px !important;
+    }
+
+    .second-line2 {
+        border-bottom: 1.5px solid #FF725E;
+        width: 136px !important;
+        position: relative;
+        right: -34px !important;
+        bottom: 31px !important;
+    }
+
+    .bullets {
+        width: 40%;
+        position: relative;
+        top: 7.5rem !important;
+        left: 3rem !important;
+    }
+
+    .get-start {
+        width: 40% !important;
+        height: 38px !important;
+
+    }
+
+    .get-start .btn {
+        font-size: 10px !important;
+    }
+
+    .innovativ-ai {
+        position: relative;
+        top: 100px !important;
+    }
+
+    .innovative {
+        position: relative;
+        top: 65px !important;
+    }
+
+
+    .innovative .solution {
+        font-size: 16px !important;
+        position: relative;
+        top: 10px !important;
+        right: 20px !important;
+    }
+
+    .innovative p {
+        font-size: 4px !important;
+        position: relative;
+        right: 19px !important;
+    }
+
+    .border-lines3 {
+        position: relative;
+        bottom: 1px !important;
+        width: 40% !important;
+        left: 40px !important;
+    }
+
+    .second-line3 {
+
+        position: relative;
+        right: 36px;
+    }
+
+    .cap1 {
+        width: 76% !important;
+        position: relative;
+        left: 73px !important;
+    }
+
+    .dream-job {
+        position: relative;
+        left: -52px !important;
+        width: 65% !important;
+        top: 114px !important;
+    }
+
+    .perfect-tool {
+        position: relative;
+        top: 114px !important;
+        left: -34px !important;
+    }
+
+    .next {
+        position: relative;
+        right: 29px !important;
+    }
+
+    .goal {
+        position: relative;
+        right: 27px !important;
+        font-size: 10px !important;
+    }
+
+    .tool h1 {
+
+        font-size: 8px !important;
+    }
+
+    .tool p {
+        font-size: 4px !important;
+    }
+
+    .career-toolkitt {
+        position: relative;
+        left: 80px !important;
+    }
+
+    .career-toolkitt p {
+        font-size: 4px !important;
+        position: relative;
+        left: -25px !important;
+    }
+
+
+    .started {
+        height: 29px !important;
+        width: 122% !important;
+        position: relative;
+        left: -35px !important;
+    }
+
+    .started .btn {
+        font-size: 9px !important;
+    }
+
+    .img-layer {
+        height: 25px !important;
+        width: 26px !important;
+        position: relative;
+        left: 0px;
+    }
+
+    .tooll {
+        font-size: 23px !important;
+    }
+
+
+
+    .cards-list .card {
+        height: 260px !important;
+        width: 31% !important;
+    }
+
+    .complete {
+        font-size: x-small;
+    }
+
+    .try-free {
+        height: 29px !important;
+        width: 86px !important;
+        position: relative;
+        bottom: 55px !important;
+        left: 9px !important;
+    }
+
+    .card-title {
+        height: 30px !important;
+        width: 116% !important;
+        position: relative;
+        left: -4px !important;
+    }
+
+    .para {
+        font-size: 6px !important;
+        position: relative;
+        bottom: 30px !important;
+    }
+
+    .card-title p {
+        font-size: 9px !important;
+        position: relative;
+        top: 8px !important;
+    }
+
+
+    .btn-free {
+        font-size: 10px !important;
+    }
+
+    .ai-tool {
+        position: relative;
+        left: 25.8px !important;
+        top: 113px !important;
+        width: 74%;
+    }
+
+
+
+    .more {
+        position: relative;
+        left: 15px !important;
+        top: -22px !important;
+        font-size: 12px !important;
+    }
+
+    .success {
+        height: 34px !important;
+        width: 109px !important;
+        font-size: 11px !important;
+        border: none;
+        border-radius: 30px;
+        background-color: #918EA4;
+    }
+
+    .ace {
+        font-size: 15px !important;
+    }
+
+    .success-stories {
+        position: relative;
+        top: 96px !important;
+        right: -7px !important;
+    }
+
+    .final {
+        font-size: 9px !important;
+        font-weight: 500;
+        position: relative;
+        right: 10px;
+    }
+
+    .apps {
+        position: relative;
+        top: 100px !important;
+    }
+
+    .app {
+        width: 71.5% !important;
+        position: relative;
+        left: 35.3px !important;
+        top: 1px !important;
+    }
+
+    .loving {
+        background-color: #FF725E;
+        height: 176px;
+        width: 109%;
+        border-top-left-radius: 34px;
+        border-bottom-right-radius: 34px;
+        position: relative;
+        right: 21px;
+    }
+
+    .lovin {
+        height: 40px !important;
+        width: 90px !important;
+        background-color: white;
+        position: relative;
+        top: 4px !important;
+        left: 9px !important;
+        border-radius: 25px !important;
+    }
+
+    .img-lovin {
+        height: 30px !important;
+        width: 30px !important;
+        position: relative;
+        bottom: 6px !important;
+    }
+
+    .jessica-bunga {
+        position: relative;
+        bottom: 1px !important;
+        height: 35px;
+        width: 78% !important;
+        right: 21px !important;
+    }
+
+    .bunga {
+        font-size: 5px !important;
+        margin-top: 6px !important;
+        margin-right: 3px !important;
+    }
+
+    .bunga h6 {
+        font-size: 6px !important;
+    }
+
+    .app2 {
+        height: 44px !important;
+        width: 71% !important;
+        position: relative;
+        top: 1px !important;
+    }
+
+    .app2 .googly {
+        height: 39px !important;
+        width: 92px !important;
+        background-color: white;
+        position: relative;
+        top: 5px !important;
+        left: 8px !important;
+        border-radius: 28px !important;
+    }
+
+    .img-google {
+        height: 100px !important;
+        width: 91px !important;
+        position: relative;
+        bottom: 31px !important;
+        left: 3px !important;
+    }
+
+    .googling {
+        width: 125% !important;
+    }
+
+
+    .letter {
+        font-size: 9px !important;
+        position: relative;
+        right: 5px !important;
+    }
+
+    .messi {
+        position: relative;
+        left: 58.4px !important;
+        bottom: 1px !important;
+        width: 86% !important;
+    }
+
+    .img-mbida {
+        position: relative;
+        left: -6px !important;
+        top: -32px !important;
+    }
+
+    .mbida h6 {
+        font-size: 9px !important;
+    }
+
+
+    .mbida {
+        position: relative;
+        left: -0.4rem !important;
+        bottom: 1.5rem !important;
+        font-size: 7px !important;
+    }
+
+
+
+    .apps2 {
+        position: relative;
+        top: 121px !important;
+        right: 50px !important;
+    }
+
+    .netflix-app {
+        height: 45px !important;
+        width: 72.5% !important;
+        position: relative;
+        left: 70px !important;
+    }
+
+    .netfli {
+        height: 46px !important;
+        width: 97px !important;
+    }
+
+    .img-netfli {
+
+        height: 35px;
+        width: 65px;
+        position: relative;
+        top: -2px !important;
+        right: -10px !important;
+    }
+
+    .netflixing {
+
+        width: 141% !important;
+    }
+
+
+    .sunarto {
+        width: 96% !important;
+        position: relative;
+        bottom: 1px !important;
+    }
+
+    .sunart h6 {
+        font-size: 12px !important;
+    }
+
+    .sunart .manager {
+        font-size: 8px !important;
+    }
+
+    .app-ai {
+        height: 45px !important;
+        width: 62.5% !important;
+    }
+
+    .app-ai .googly {
+        height: 31px !important;
+        width: 71px !important;
+        background-color: white;
+        position: relative;
+        top: 10px !important;
+        left: 6px !important;
+        border-radius: 20px !important;
+    }
+
+    .ai-cover {
+        height: 178px !important;
+        width: 110.5% !important;
+    }
+
+    .impress {
+        position: relative;
+        top: 2rem !important;
+        left: -8px !important;
+        font-size: 10.5px !important;
+    }
+
+    .tami {
+        height: 45px;
+        width: 81%;
+        background-color: #918EA4;
+        border-bottom-left-radius: 34px;
+        border-bottom-right-radius: 34px;
+        position: relative;
+        left: 87.9px !important;
+        bottom: 1px !important;
+    }
+
+    .tami .img-sunarto-2 {
+        position: relative;
+        right: 5px !important;
+    }
+
+    .sunart-2 h6 {
+        font-size: 6px !important;
+    }
+
+    .sunart-2 span {
+        font-size: 7px !important;
+    }
+
+    .pricing {
+        position: relative;
+        top: 143px !important;
+    }
+
+    .pricing h3 {
+        font-size: 16px !important;
+    }
+
+    .pricing p {
+        font-size: 9px !important;
+    }
+
+    .basic-pro-enter {
+        position: relative;
+        top: 110px !important;
+    }
+
+    .basic-pro-enter .card {
+        background-color: #F2F3F5;
+        height: 266px !important;
+        width: 30% !important;
+        border-radius: 23px;
+    }
+
+
+    .includes {
+        font-size: 4px !important;
+    }
+
+    .ideal {
+        font-size: 3px !important;
+        position: relative;
+        right: 15px !important;
+        color: #878787;
+    }
+
+    .info-section {
+        font-size: 3px !important;
+        height: 105px !important;
+        position: relative;
+        bottom: 25px !important;
+    }
+
+    .dollar {
+        font-weight: bold;
+        position: relative;
+        top: 1px;
+        bottom: 7px;
+        left: 5px;
+        right: 3px;
+        font-size: 10px;
+    }
+
+    .price {
+        font-size: 20px !important;
+        position: relative;
+        top: 9px !important;
+        left: 2px !important;
+    }
+
+    .month {
+        font-size: 12px !important;
+    }
+
+    .basic h4 {
+        font-size: 12px !important;
+    }
+
+    .choose-this {
+        height: 30px !important;
+        position: relative;
+        top: -62px !important;
+    }
+
+
+    .btn-choose {
+        font-size: 9px !important;
+        background: none;
+    }
+
+    .Credit span {
+        margin-top: 5px !important;
+    }
+
+    .support span {
+        margin-top: 5px !important;
+    }
+
+    .jobs span {
+        margin-top: 5px !important;
+    }
+
+    .choose-this-2 {
+        height: 30px !important;
+        position: relative;
+        top: -62px !important;
+    }
+
+    .btn-choose-2 {
+        font-size: 9px !important;
+    }
+
+
+
+
+    .img-vector {
+
+        height: 15px !important;
+        width: 15px !important;
+    }
+
+
+    .frequent-ask {
+        position: relative;
+        top: 82px !important;
+    }
+
+    .frequent {
+        position: relative;
+        left: 85px !important;
+        width: 221px !important;
+    }
+
+    .frequent p {
+        font-size: 14px !important;
+    }
+
+    .frequent-ask .relevant {
+        font-size: 12px !important;
+    }
+
+    .btn-awesome {
+        font-size: 12px !important;
+    }
+
+    .some {
+        position: relative;
+        width: 37% !important;
+        left: 147px !important;
+        font-size: 20px;
+    }
+
+    .best-company {
+        height: 40px;
+        background-color: #4ECDC4;
+        border-radius: 30px;
+    }
+
+    .pricing {
+
+        position: relative;
+        bottom: 5px !important;
+
+    }
+
+    .img-horizontal {
+        position: relative;
+        bottom: 6px !important;
+    }
+
+    .company {
+        position: relative;
+        bottom: 3px !important;
+    }
+
+    .awesome {
+        height: 40px !important;
+
+    }
+
+    .img-plus {
+
+        position: relative;
+        top: -5px !important;
+    }
+
+    .footer {
+        position: relative;
+        top: 100px !important;
+    }
+
+    .img-next {
+        height: 37px !important;
+        width: 100% !important;
+    }
+
+    .project {
+        width: 134% !important;
+        font-size: 5px !important;
+    }
+
+    .img-icon {
+        height: 10px !important;
+        width: 10px !important;
+    }
+
+    .footer-detail {
+        width: 88% !important;
+    }
+
+    .leap-main {
+        width: 26% !important;
+        font-size: 10px !important;
+        position: relative;
+        right: 72px !important;
+    }
+
+    .resource-main {
+        width: 24% !important;
+        position: relative;
+        top: 124px !important;
+        right: 120px !important;
+    }
+
+    .resource-main h5 {
+        font-size: 9px !important;
+    }
+
+    .resource {
+        height: 170px !important;
+        font-size: 5px !important;
+    }
+
+    .get-touch {
+
+        position: relative;
+        top: 125px;
+        right: 197px !important;
+        width: 20% !important;
+    }
+
+
+    .touch {
+        width: 210% !important;
+    }
+
+
+    .touch h5 {
+        font-size: 6px !important;
+        margin-top: 1px !important;
+        width: 65% !important;
+        position: relative;
+        right: 2px;
+    }
+
+    .address {
+        font-size: 6px !important;
+        width: 140% !important;
+        position: relative;
+        right: 4px;
+    }
+
+    .contact {
+        width: 160% !important;
+    }
+
+    .email {
+        font-size: 5px !important;
+    }
+
+    .img-phone {
+        height: 15px !important;
+        width: 15px !important;
+    }
+
+    .subscribe {
+        width: 131% !important;
+        position: relative;
+        left: 17px !important;
+    }
+
+    .subscribe h5 {
+        font-size: 6px !important;
+    }
+
+    .search {
+        width: 128% !important;
+        height: 31px !important;
+    }
+
+    .search-icon {
+        height: 31px;
+        width: 34%;
+    }
+
+    .borderr {
+        height: 25px !important;
+        width: 3px !important;
+        border: none;
+        background-color: #FF725E;
+    }
+
+    .borderr2 {
+        height: 24px;
+        width: 3px;
+        border: none;
+        background-color: #FF725E;
+    }
+
+    .newsletter {
+        width: 37% !important;
+        position: relative;
+        right: 2px !important;
+        top: -121px !important;
+        left: 140px !important;
+    }
+
+    .latest {
+        font-size: 2px !important;
+    }
+
+}
